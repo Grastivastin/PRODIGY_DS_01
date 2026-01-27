@@ -1,6 +1,4 @@
-# PRODIGY_DS_01
-
-## Task 01: Data Visualization
+ Data Visualization
 
 ### Objective
 To create a bar chart to visualize the distribution of a continuous variable.
